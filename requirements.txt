@@ -1,0 +1,4 @@
+Flask
+weaviate-client
+ollama
+langchain
