@@ -22,7 +22,7 @@ AspireBot is a modern chatbot application that combines rule-based generation wi
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/aspirebot.git
+   git clone https://github.com/Hamhunter23/AspireNex-ChatBot.git
    cd aspirebot
    ```
 
